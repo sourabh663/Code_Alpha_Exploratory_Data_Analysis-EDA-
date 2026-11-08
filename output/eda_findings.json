@@ -1,0 +1,17 @@
+{
+  "rows": 5,
+  "columns": 7,
+  "duplicate_rows": 0,
+  "missing_cells": 0,
+  "average_price": 51.53,
+  "median_price": 51.77,
+  "average_rating": 2.8,
+  "rating_counts": {
+    "1": 2,
+    "3": 1,
+    "4": 1,
+    "5": 1
+  },
+  "price_rating_correlation": 0.007,
+  "sample_size_warning": "The included dataset is a small preview. Run Task 1 scraping.py to collect the full catalogue, then rerun this EDA script."
+}

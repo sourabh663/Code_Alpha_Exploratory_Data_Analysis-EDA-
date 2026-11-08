@@ -1,0 +1,8 @@
+TASK 2 SUBMISSION CHECKLIST
+[ ] Run Task 1 scraper to create the full books_dataset.csv
+[ ] Install Task 2 requirements: python -m pip install -r requirements.txt
+[ ] Run EDA: python eda.py path/to/books_dataset.csv
+[ ] Review output/cleaned_books_dataset.csv and output/eda_findings.json
+[ ] Review all charts in output/plots/
+[ ] Add screenshots of code, terminal output, and charts if required
+[ ] Submit this project folder or ZIP

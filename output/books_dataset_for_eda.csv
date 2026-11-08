@@ -1,0 +1,6 @@
+﻿title,price,rating,rating_numeric,availability,product_url,price_numeric
+A Light in the Attic,£51.77,Three,3,In stock,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77
+Tipping the Velvet,£53.74,One,1,In stock,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html,53.74
+Soumission,£50.10,One,1,In stock,https://books.toscrape.com/catalogue/soumission_998/index.html,50.1
+Sharp Objects,£47.82,Four,4,In stock,https://books.toscrape.com/catalogue/sharp-objects_997/index.html,47.82
+Sapiens: A Brief History of Humankind,£54.23,Five,5,In stock,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23
